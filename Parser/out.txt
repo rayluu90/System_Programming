@@ -1,0 +1,62 @@
+Text Content: 
+first = one1 + two2 - three3 / four4 )
+first = 1 + - two2 - three3 / four4 ;
+first = one1 + two2 ? three3 / four4 ;
+second = 4 + ( one1 * two2 ) * ( three3 + four4 ;
+third = one1 + 24 - three3 ;
+one1 +- delta
+sixty6 / min = fourth ;
+first = one1 + two2 - three3 / four4 ;
+second = one1 * (two2 * three3) ;
+second = one1 * (two2 * three3) ;
+third = ONE + twenty - three3 ;
+third = old * thirty2 / b567 ;
+one1 * i8766e98e + bignum
+
+Number of Line is: 13 
+
+first = one1 + two2 - three3 / four4 ) 
+Invalid statement! Missing a ';' at the end
+Line 1 is either an Expression nor Assignment
+
+first = 1 + - two2 - three3 / four4 ; 
+Invalid statement! The token '1' is not an ID
+Line 2 is either an Expression nor Assignment
+
+first = one1 + two2 ? three3 / four4 ; 
+Invalid statement! The token is 'two2' AND the following token is '?'
+Line 3 is either an Expression nor Assignment
+
+second = 4 + ( one1 * two2 ) * ( three3 + four4 ; 
+Invalid statement! The token '4' is not an ID
+Line 4 is either an Expression nor Assignment
+
+third = one1 + 24 - three3 ; 
+Invalid statement! The element is not an 'ID'. The element is '24'
+Line 5 is either an Expression nor Assignment
+
+one1 +- delta 
+Invalid statement! The second element is not an operator. The element is '+-'
+Line 6 is either an Expression nor Assignment
+
+sixty6 / min = fourth ; 
+Line 7 is either an Expression nor Assignment
+
+first = one1 + two2 - three3 / four4 ; 
+Line 8 is an Assignment
+
+second = one1 * (two2 * three3) ; 
+Line 9 is an Assignment
+
+second = one1 * (two2 * three3) ; 
+Line 10 is an Assignment
+
+third = ONE + twenty - three3 ; 
+Line 11 is an Assignment
+
+third = old * thirty2 / b567 ; 
+Line 12 is an Assignment
+
+one1 * i8766e98e + bignum 
+Line 13 is an Expression
+
